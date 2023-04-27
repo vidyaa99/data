@@ -1,0 +1,1682 @@
+[
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 1564
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 5258
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 11086
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 11682
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 4129
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 2158
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 8647
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 19907
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 20007
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 4235
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 3337
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 11147
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 17251
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 21673
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 3523
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 395
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 1216
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 2073
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 2170
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 385
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 1456
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 3643
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 7828
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 9019
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 3236
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 2106
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 7775
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 22308
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 18223
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 3722
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 5219
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 21937
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 41283
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 43268
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 7175
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 1222
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 5429
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 9297
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 8665
+ },
+ {
+   "Qualification": "Level 0",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1466
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 1795
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 3414
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 7902
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 8661
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1946
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 2347
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 5742
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 14886
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 16633
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 2110
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 3039
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 7637
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 15642
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 25011
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 2015
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 217
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 633
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 1384
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 1796
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 184
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 1952
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 2481
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 4540
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 5003
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1281
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 2739
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 4906
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 11315
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 8787
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1396
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 6095
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 16850
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 32401
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 31525
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 2665
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 906
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 3452
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 6387
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 5915
+ },
+ {
+   "Qualification": "Level 1",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 531
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 7724
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 4173
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 8147
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 8393
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1951
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 5259
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 8426
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 18006
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 17816
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 2164
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 7430
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 15329
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 24763
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 30060
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 2070
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 444
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 1351
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 2329
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 2722
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 232
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 6176
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 3252
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 4326
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 4214
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1270
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 5428
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 5528
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 8771
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 6654
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1280
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 11004
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 26607
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 40587
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 30728
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 2422
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 1539
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 5585
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 9052
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 6663
+ },
+ {
+   "Qualification": "Level 2",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 562
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 17481
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 7729
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 11511
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 8461
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1845
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 13097
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 14258
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 24774
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 18019
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 2035
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 22165
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 41053
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 42140
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 34609
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 2236
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 1460
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 4328
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 5083
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 3913
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 371
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 12228
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 5795
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 6083
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 5832
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 2000
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 11497
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 8633
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 9792
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 8139
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1995
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 24422
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 53732
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 60059
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 41503
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 3974
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 3270
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 11789
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 16102
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 10696
+ },
+ {
+   "Qualification": "Level 3",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1015
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 13708
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 28969
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 47046
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 28506
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 9435
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 15926
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 52453
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 96965
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 49964
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 7809
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 62156
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 336477
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 273179
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 116384
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 8228
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 7424
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 61319
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 57626
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 25999
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1799
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 8952
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 17847
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 22471
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 19482
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 10711
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 10558
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 27303
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 37938
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 27917
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 9584
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 45707
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 285545
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 310913
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 136009
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 15313
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 9107
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 85825
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 109986
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 49470
+ },
+ {
+   "Qualification": "Level 4",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 5218
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 1309
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 3394
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 6048
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 4387
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1337
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 2203
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 5439
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 9972
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 7642
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1257
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 5014
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 11038
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 12686
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 10538
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1225
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 412
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 1425
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 1652
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 1192
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Female",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 199
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 1218
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 2492
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 4233
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 4494
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Part-time: 15 hours or less worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 1994
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 1849
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 4102
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 8800
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 6924
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Part-time: 16 to 30 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 2031
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 7121
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 20349
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 30482
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 27419
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Full-time: 31 to 48 hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 4125
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 16 to 24 years",
+   "Observation": 1118
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 25 to 34 years",
+   "Observation": 5210
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 35 to 49 years",
+   "Observation": 7621
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 50 to 64 years",
+   "Observation": 6169
+ },
+ {
+   "Qualification": "Level 5",
+   "Sex": "Male",
+   "Hours": "Full-time: 49 or more hours worked",
+   "Age": "Aged 65 years and over",
+   "Observation": 931
+ }
+]
