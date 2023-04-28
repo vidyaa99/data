@@ -1,0 +1,246 @@
+District,Education,Total,Male,Female
+Nandurbar,Illiterate,317113,147447,169666
+Nandurbar,Literate,346957,248658,98299
+Nandurbar,Literate but below matric/secondary,170152,116851,53301
+Nandurbar,Matric/secondary but below graduate,87781,69886,17895
+Nandurbar,Technical diploma or certificate not equal to degree,3923,3566,357
+Nandurbar,Graduate and above other than technical degree,19884,17201,2683
+Nandurbar,Technical degree or diploma equal to degree or post-graduate degree,8109,6451,1658
+Dhule,Illiterate,291303,134169,157134
+Dhule,Literate,533994,391740,142254
+Dhule,Literate but below matric/secondary,265054,178828,86226
+Dhule,Matric/secondary but below graduate,158910,129945,28965
+Dhule,Technical diploma or certificate not equal to degree,7520,6902,618
+Dhule,Graduate and above other than technical degree,38944,33222,5722
+Dhule,Technical degree or diploma equal to degree or post-graduate degree,16156,12316,3840
+Jalgaon,Illiterate,426676,187486,239190
+Jalgaon,Literate,1217869,895904,321965
+Jalgaon,Literate but below matric/secondary,648522,439272,209250
+Jalgaon,Matric/secondary but below graduate,354140,289187,64953
+Jalgaon,Technical diploma or certificate not equal to degree,20215,18847,1368
+Jalgaon,Graduate and above other than technical degree,83480,71807,11673
+Jalgaon,Technical degree or diploma equal to degree or post-graduate degree,30388,23854,6534
+Buldana,Illiterate,213379,74515,138864
+Buldana,Literate,894487,608347,286140
+Buldana,Literate but below matric/secondary,494798,313112,181686
+Buldana,Matric/secondary but below graduate,219502,172877,46625
+Buldana,Technical diploma or certificate not equal to degree,4637,4298,339
+Buldana,Graduate and above other than technical degree,40794,35527,5267
+Buldana,Technical degree or diploma equal to degree or post-graduate degree,17363,14313,3050
+Akola,Illiterate,95499,41193,54306
+Akola,Literate,596052,439892,156160
+Akola,Literate but below matric/secondary,301390,210775,90615
+Akola,Matric/secondary but below graduate,175688,141849,33839
+Akola,Technical diploma or certificate not equal to degree,3729,3372,357
+Akola,Graduate and above other than technical degree,40200,33494,6706
+Akola,Technical degree or diploma equal to degree or post-graduate degree,14653,11010,3643
+Washim,Illiterate,100363,34542,65821
+Washim,Literate,402160,274614,127546
+Washim,Literate but below matric/secondary,219965,139695,80270
+Washim,Matric/secondary but below graduate,112710,88780,23930
+Washim,Technical diploma or certificate not equal to degree,1804,1624,180
+Washim,Graduate and above other than technical degree,18179,16100,2079
+Washim,Technical degree or diploma equal to degree or post-graduate degree,7276,6209,1067
+Amravati,Illiterate,156158,72436,83722
+Amravati,Literate,905176,681524,223652
+Amravati,Literate but below matric/secondary,514445,368147,146298
+Amravati,Matric/secondary but below graduate,261916,212387,49529
+Amravati,Technical diploma or certificate not equal to degree,6695,6016,679
+Amravati,Graduate and above other than technical degree,71772,59584,12188
+Amravati,Technical degree or diploma equal to degree or post-graduate degree,24253,18110,6143
+Wardha,Illiterate,75864,30950,44914
+Wardha,Literate,454434,327378,127056
+Wardha,Literate but below matric/secondary,262326,176597,85729
+Wardha,Matric/secondary but below graduate,132577,103515,29062
+Wardha,Technical diploma or certificate not equal to degree,4127,3648,479
+Wardha,Graduate and above other than technical degree,35119,29306,5813
+Wardha,Technical degree or diploma equal to degree or post-graduate degree,10650,7916,2734
+Nagpur,Illiterate,204710,102532,102178
+Nagpur,Literate,1449970,1121504,328466
+Nagpur,Literate but below matric/secondary,667062,494509,172553
+Nagpur,Matric/secondary but below graduate,439614,366747,72867
+Nagpur,Technical diploma or certificate not equal to degree,21558,19171,2387
+Nagpur,Graduate and above other than technical degree,195520,153189,42331
+Nagpur,Technical degree or diploma equal to degree or post-graduate degree,60597,41850,18747
+Bhandara,Illiterate,68734,27006,41728
+Bhandara,Literate,344777,235514,109263
+Bhandara,Literate but below matric/secondary,193925,125300,68625
+Bhandara,Matric/secondary but below graduate,104912,76108,28804
+Bhandara,Technical diploma or certificate not equal to degree,2579,2239,340
+Bhandara,Graduate and above other than technical degree,25056,20357,4699
+Bhandara,Technical degree or diploma equal to degree or post-graduate degree,8381,6258,2123
+Gondiya,Illiterate,65287,24140,41147
+Gondiya,Literate,369704,258032,111672
+Gondiya,Literate but below matric/secondary,200053,133652,66401
+Gondiya,Matric/secondary but below graduate,101828,76090,25738
+Gondiya,Technical diploma or certificate not equal to degree,1966,1729,237
+Gondiya,Graduate and above other than technical degree,20605,16929,3676
+Gondiya,Technical degree or diploma equal to degree or post-graduate degree,7255,5712,1543
+Gadchiroli,Illiterate,127177,55874,71303
+Gadchiroli,Literate,265626,184035,81591
+Gadchiroli,Literate but below matric/secondary,141794,97429,44365
+Gadchiroli,Matric/secondary but below graduate,64811,48855,15956
+Gadchiroli,Technical diploma or certificate not equal to degree,941,798,143
+Gadchiroli,Graduate and above other than technical degree,13944,11633,2311
+Gadchiroli,Technical degree or diploma equal to degree or post-graduate degree,4973,3943,1030
+Chandrapur,Illiterate,184518,82091,102427
+Chandrapur,Literate,619537,454641,164896
+Chandrapur,Literate but below matric/secondary,347617,241047,106570
+Chandrapur,Matric/secondary but below graduate,183642,144601,39041
+Chandrapur,Technical diploma or certificate not equal to degree,6226,5796,430
+Chandrapur,Graduate and above other than technical degree,47315,39524,7791
+Chandrapur,Technical degree or diploma equal to degree or post-graduate degree,14385,11094,3291
+Yavatmal,Illiterate,253639,94497,159142
+Yavatmal,Literate,942609,649894,292715
+Yavatmal,Literate but below matric/secondary,531027,350246,180781
+Yavatmal,Matric/secondary but below graduate,211707,166269,45438
+Yavatmal,Technical diploma or certificate not equal to degree,4626,4128,498
+Yavatmal,Graduate and above other than technical degree,44773,37527,7246
+Yavatmal,Technical degree or diploma equal to degree or post-graduate degree,16465,12831,3634
+Nanded,Illiterate,385162,163011,222151
+Nanded,Literate,932589,687610,244979
+Nanded,Literate but below matric/secondary,515671,352187,163484
+Nanded,Matric/secondary but below graduate,237336,196593,40743
+Nanded,Technical diploma or certificate not equal to degree,5688,5098,590
+Nanded,Graduate and above other than technical degree,64953,57135,7818
+Nanded,Technical degree or diploma equal to degree or post-graduate degree,25244,20004,5240
+Hingoli,Illiterate,132714,48875,83839
+Hingoli,Literate,380782,258838,121944
+Hingoli,Literate but below matric/secondary,220646,142976,77670
+Hingoli,Matric/secondary but below graduate,74012,59851,14161
+Hingoli,Technical diploma or certificate not equal to degree,1118,1005,113
+Hingoli,Graduate and above other than technical degree,14967,13600,1367
+Hingoli,Technical degree or diploma equal to degree or post-graduate degree,5715,4683,1032
+Parbhani,Illiterate,242833,100095,142738
+Parbhani,Literate,513984,373483,140501
+Parbhani,Literate but below matric/secondary,317051,214747,102304
+Parbhani,Matric/secondary but below graduate,118993,98514,20479
+Parbhani,Technical diploma or certificate not equal to degree,2297,2045,252
+Parbhani,Graduate and above other than technical degree,32064,28306,3758
+Parbhani,Technical degree or diploma equal to degree or post-graduate degree,11750,9299,2451
+Jalna,Illiterate,282122,110520,171602
+Jalna,Literate,561853,397526,164327
+Jalna,Literate but below matric/secondary,339403,226202,113201
+Jalna,Matric/secondary but below graduate,130235,104603,25632
+Jalna,Technical diploma or certificate not equal to degree,2187,1913,274
+Jalna,Graduate and above other than technical degree,31468,27631,3837
+Jalna,Technical degree or diploma equal to degree or post-graduate degree,8452,6628,1824
+Aurangabad,Illiterate,361153,143562,217591
+Aurangabad,Literate,1084464,814056,270408
+Aurangabad,Literate but below matric/secondary,527692,362727,164965
+Aurangabad,Matric/secondary but below graduate,357679,293052,64627
+Aurangabad,Technical diploma or certificate not equal to degree,14957,13588,1369
+Aurangabad,Graduate and above other than technical degree,115938,97539,18399
+Aurangabad,Technical degree or diploma equal to degree or post-graduate degree,34777,25457,9320
+Nashik,Illiterate,546482,231599,314883
+Nashik,Literate,1977620,1409576,568044
+Nashik,Literate but below matric/secondary,973371,650008,323363
+Nashik,Matric/secondary but below graduate,546209,432177,114032
+Nashik,Technical diploma or certificate not equal to degree,34461,31527,2934
+Nashik,Graduate and above other than technical degree,168234,137982,30252
+Nashik,Technical degree or diploma equal to degree or post-graduate degree,52499,39186,13313
+Thane,Illiterate,617813,368393,249420
+Thane,Literate,3312576,2691346,621230
+Thane,Literate but below matric/secondary,1206251,992649,213602
+Thane,Matric/secondary but below graduate,1119785,971043,148742
+Thane,Technical diploma or certificate not equal to degree,61530,52833,8697
+Thane,Graduate and above other than technical degree,551218,394778,156440
+Thane,Technical degree or diploma equal to degree or post-graduate degree,144180,100111,44069
+Mumbai Suburban,Illiterate,305919,212369,93550
+Mumbai Suburban,Literate,3209825,2598435,611390
+Mumbai Suburban,Literate but below matric/secondary,1102455,931195,171260
+Mumbai Suburban,Matric/secondary but below graduate,1114835,964892,149943
+Mumbai Suburban,Technical diploma or certificate not equal to degree,52728,43667,9061
+Mumbai Suburban,Graduate and above other than technical degree,687382,472840,214542
+Mumbai Suburban,Technical degree or diploma equal to degree or post-graduate degree,151854,106254,45600
+Mumbai,Illiterate,122374,90914,31460
+Mumbai,Literate,1085803,883254,202549
+Mumbai,Literate but below matric/secondary,394505,337240,57265
+Mumbai,Matric/secondary but below graduate,375572,322189,53383
+Mumbai,Technical diploma or certificate not equal to degree,14013,10850,3163
+Mumbai,Graduate and above other than technical degree,219910,151293,68617
+Mumbai,Technical degree or diploma equal to degree or post-graduate degree,38715,26433,12282
+Raigarh,Illiterate,140761,72072,68689
+Raigarh,Literate,719413,570548,148865
+Raigarh,Literate but below matric/secondary,337904,259011,78893
+Raigarh,Matric/secondary but below graduate,204790,177991,26799
+Raigarh,Technical diploma or certificate not equal to degree,13592,12002,1590
+Raigarh,Graduate and above other than technical degree,87362,66493,20869
+Raigarh,Technical degree or diploma equal to degree or post-graduate degree,30732,22265,8467
+Pune,Illiterate,555530,260192,295338
+Pune,Literate,3197794,2400883,796911
+Pune,Literate but below matric/secondary,1201481,843967,357514
+Pune,Matric/secondary but below graduate,976725,811973,164752
+Pune,Technical diploma or certificate not equal to degree,91854,81924,9930
+Pune,Graduate and above other than technical degree,478558,347116,131442
+Pune,Technical degree or diploma equal to degree or post-graduate degree,222832,163176,59656
+Ahmadnagar,Illiterate,495546,185341,310205
+Ahmadnagar,Literate,1543213,1041092,502121
+Ahmadnagar,Literate but below matric/secondary,815476,496193,319283
+Ahmadnagar,Matric/secondary but below graduate,442853,333821,109032
+Ahmadnagar,Technical diploma or certificate not equal to degree,18731,16368,2363
+Ahmadnagar,Graduate and above other than technical degree,119432,99956,19476
+Ahmadnagar,Technical degree or diploma equal to degree or post-graduate degree,38413,28201,10212
+Bid,Illiterate,330044,124680,205364
+Bid,Literate,823955,558565,265390
+Bid,Literate but below matric/secondary,404888,256352,148536
+Bid,Matric/secondary but below graduate,216513,167452,49061
+Bid,Technical diploma or certificate not equal to degree,5219,4564,655
+Bid,Graduate and above other than technical degree,64210,56936,7274
+Bid,Technical degree or diploma equal to degree or post-graduate degree,20586,16032,4554
+Latur,Illiterate,257416,117842,139574
+Latur,Literate,707286,516129,191157
+Latur,Literate but below matric/secondary,342177,226181,115996
+Latur,Matric/secondary but below graduate,221183,179083,42100
+Latur,Technical diploma or certificate not equal to degree,6853,6077,776
+Latur,Graduate and above other than technical degree,51669,45141,6528
+Latur,Technical degree or diploma equal to degree or post-graduate degree,24187,18926,5261
+Osmanabad,Illiterate,180648,76593,104055
+Osmanabad,Literate,521788,365625,156163
+Osmanabad,Literate but below matric/secondary,265896,172066,93830
+Osmanabad,Matric/secondary but below graduate,153603,121152,32451
+Osmanabad,Technical diploma or certificate not equal to degree,3623,3256,367
+Osmanabad,Graduate and above other than technical degree,37611,33278,4333
+Osmanabad,Technical degree or diploma equal to degree or post-graduate degree,12945,10450,2495
+Solapur,Illiterate,480982,208882,272100
+Solapur,Literate,1281379,939933,341446
+Solapur,Literate but below matric/secondary,743651,506061,237590
+Solapur,Matric/secondary but below graduate,333701,274095,59606
+Solapur,Technical diploma or certificate not equal to degree,13343,11918,1425
+Solapur,Graduate and above other than technical degree,103364,88042,15322
+Solapur,Technical degree or diploma equal to degree or post-graduate degree,37190,28199,8991
+Satara,Illiterate,214390,89193,125197
+Satara,Literate,969765,691671,278094
+Satara,Literate but below matric/secondary,482856,309896,172960
+Satara,Matric/secondary but below graduate,300365,242176,58189
+Satara,Technical diploma or certificate not equal to degree,12188,10630,1558
+Satara,Graduate and above other than technical degree,92916,75019,17897
+Satara,Technical degree or diploma equal to degree or post-graduate degree,26067,18803,7264
+Ratnagiri,Illiterate,96149,32182,63967
+Ratnagiri,Literate,458274,311550,146724
+Ratnagiri,Literate but below matric/secondary,299045,186503,112542
+Ratnagiri,Matric/secondary but below graduate,105568,86448,19120
+Ratnagiri,Technical diploma or certificate not equal to degree,5520,4754,766
+Ratnagiri,Graduate and above other than technical degree,27483,20420,7063
+Ratnagiri,Technical degree or diploma equal to degree or post-graduate degree,11811,8031,3780
+Sindhudurg,Illiterate,25142,13112,12030
+Sindhudurg,Literate,201559,151955,49604
+Sindhudurg,Literate but below matric/secondary,104930,75432,29498
+Sindhudurg,Matric/secondary but below graduate,61150,50566,10584
+Sindhudurg,Technical diploma or certificate not equal to degree,1997,1576,421
+Sindhudurg,Graduate and above other than technical degree,16735,12756,3979
+Sindhudurg,Technical degree or diploma equal to degree or post-graduate degree,5012,3185,1827
+Kolhapur,Illiterate,297068,132202,164866
+Kolhapur,Literate,1210925,917079,293846
+Kolhapur,Literate but below matric/secondary,537115,368796,168319
+Kolhapur,Matric/secondary but below graduate,422641,348905,73736
+Kolhapur,Technical diploma or certificate not equal to degree,20250,18116,2134
+Kolhapur,Graduate and above other than technical degree,135447,113369,22078
+Kolhapur,Technical degree or diploma equal to degree or post-graduate degree,34598,25921,8677
+Sangli,Illiterate,213033,99531,113502
+Sangli,Literate,861553,649466,212087
+Sangli,Literate but below matric/secondary,424454,295488,128966
+Sangli,Matric/secondary but below graduate,273386,226861,46525
+Sangli,Technical diploma or certificate not equal to degree,12615,11166,1449
+Sangli,Graduate and above other than technical degree,87497,72304,15193
+Sangli,Technical degree or diploma equal to degree or post-graduate degree,25341,18450,6891
