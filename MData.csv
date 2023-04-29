@@ -1,0 +1,491 @@
+District,Education,Sex,Count
+Nandurbar,Illiterate,Male,147447
+Nandurbar,Literate,Male,248658
+Nandurbar,Literate but below matric/secondary,Male,116851
+Nandurbar,Matric/secondary but below graduate,Male,69886
+Nandurbar,Technical diploma or certificate not equal to degree,Male,3566
+Nandurbar,Graduate and above other than technical degree,Male,17201
+Nandurbar,Technical degree or diploma equal to degree or post-graduate degree,Male,6451
+Nandurbar,Illiterate,Female,169666
+Nandurbar,Literate,Female,98299
+Nandurbar,Literate but below matric/secondary,Female,53301
+Nandurbar,Matric/secondary but below graduate,Female,17895
+Nandurbar,Technical diploma or certificate not equal to degree,Female,357
+Nandurbar,Graduate and above other than technical degree,Female,2683
+Nandurbar,Technical degree or diploma equal to degree or post-graduate degree,Female,1658
+Dhule,Illiterate,Male,134169
+Dhule,Literate,Male,391740
+Dhule,Literate but below matric/secondary,Male,178828
+Dhule,Matric/secondary but below graduate,Male,129945
+Dhule,Technical diploma or certificate not equal to degree,Male,6902
+Dhule,Graduate and above other than technical degree,Male,33222
+Dhule,Technical degree or diploma equal to degree or post-graduate degree,Male,12316
+Dhule,Illiterate,Female,157134
+Dhule,Literate,Female,142254
+Dhule,Literate but below matric/secondary,Female,86226
+Dhule,Matric/secondary but below graduate,Female,28965
+Dhule,Technical diploma or certificate not equal to degree,Female,618
+Dhule,Graduate and above other than technical degree,Female,5722
+Dhule,Technical degree or diploma equal to degree or post-graduate degree,Female,3840
+Jalgaon,Illiterate,Male,187486
+Jalgaon,Literate,Male,895904
+Jalgaon,Literate but below matric/secondary,Male,439272
+Jalgaon,Matric/secondary but below graduate,Male,289187
+Jalgaon,Technical diploma or certificate not equal to degree,Male,18847
+Jalgaon,Graduate and above other than technical degree,Male,71807
+Jalgaon,Technical degree or diploma equal to degree or post-graduate degree,Male,23854
+Jalgaon,Illiterate,Female,239190
+Jalgaon,Literate,Female,321965
+Jalgaon,Literate but below matric/secondary,Female,209250
+Jalgaon,Matric/secondary but below graduate,Female,64953
+Jalgaon,Technical diploma or certificate not equal to degree,Female,1368
+Jalgaon,Graduate and above other than technical degree,Female,11673
+Jalgaon,Technical degree or diploma equal to degree or post-graduate degree,Female,6534
+Buldana,Illiterate,Male,74515
+Buldana,Literate,Male,608347
+Buldana,Literate but below matric/secondary,Male,313112
+Buldana,Matric/secondary but below graduate,Male,172877
+Buldana,Technical diploma or certificate not equal to degree,Male,4298
+Buldana,Graduate and above other than technical degree,Male,35527
+Buldana,Technical degree or diploma equal to degree or post-graduate degree,Male,14313
+Buldana,Illiterate,Female,138864
+Buldana,Literate,Female,286140
+Buldana,Literate but below matric/secondary,Female,181686
+Buldana,Matric/secondary but below graduate,Female,46625
+Buldana,Technical diploma or certificate not equal to degree,Female,339
+Buldana,Graduate and above other than technical degree,Female,5267
+Buldana,Technical degree or diploma equal to degree or post-graduate degree,Female,3050
+Akola,Illiterate,Male,41193
+Akola,Literate,Male,439892
+Akola,Literate but below matric/secondary,Male,210775
+Akola,Matric/secondary but below graduate,Male,141849
+Akola,Technical diploma or certificate not equal to degree,Male,3372
+Akola,Graduate and above other than technical degree,Male,33494
+Akola,Technical degree or diploma equal to degree or post-graduate degree,Male,11010
+Akola,Illiterate,Female,54306
+Akola,Literate,Female,156160
+Akola,Literate but below matric/secondary,Female,90615
+Akola,Matric/secondary but below graduate,Female,33839
+Akola,Technical diploma or certificate not equal to degree,Female,357
+Akola,Graduate and above other than technical degree,Female,6706
+Akola,Technical degree or diploma equal to degree or post-graduate degree,Female,3643
+Washim,Illiterate,Male,34542
+Washim,Literate,Male,274614
+Washim,Literate but below matric/secondary,Male,139695
+Washim,Matric/secondary but below graduate,Male,88780
+Washim,Technical diploma or certificate not equal to degree,Male,1624
+Washim,Graduate and above other than technical degree,Male,16100
+Washim,Technical degree or diploma equal to degree or post-graduate degree,Male,6209
+Washim,Illiterate,Female,65821
+Washim,Literate,Female,127546
+Washim,Literate but below matric/secondary,Female,80270
+Washim,Matric/secondary but below graduate,Female,23930
+Washim,Technical diploma or certificate not equal to degree,Female,180
+Washim,Graduate and above other than technical degree,Female,2079
+Washim,Technical degree or diploma equal to degree or post-graduate degree,Female,1067
+Amravati,Illiterate,Male,72436
+Amravati,Literate,Male,681524
+Amravati,Literate but below matric/secondary,Male,368147
+Amravati,Matric/secondary but below graduate,Male,212387
+Amravati,Technical diploma or certificate not equal to degree,Male,6016
+Amravati,Graduate and above other than technical degree,Male,59584
+Amravati,Technical degree or diploma equal to degree or post-graduate degree,Male,18110
+Amravati,Illiterate,Female,83722
+Amravati,Literate,Female,223652
+Amravati,Literate but below matric/secondary,Female,146298
+Amravati,Matric/secondary but below graduate,Female,49529
+Amravati,Technical diploma or certificate not equal to degree,Female,679
+Amravati,Graduate and above other than technical degree,Female,12188
+Amravati,Technical degree or diploma equal to degree or post-graduate degree,Female,6143
+Wardha,Illiterate,Male,30950
+Wardha,Literate,Male,327378
+Wardha,Literate but below matric/secondary,Male,176597
+Wardha,Matric/secondary but below graduate,Male,103515
+Wardha,Technical diploma or certificate not equal to degree,Male,3648
+Wardha,Graduate and above other than technical degree,Male,29306
+Wardha,Technical degree or diploma equal to degree or post-graduate degree,Male,7916
+Wardha,Illiterate,Female,44914
+Wardha,Literate,Female,127056
+Wardha,Literate but below matric/secondary,Female,85729
+Wardha,Matric/secondary but below graduate,Female,29062
+Wardha,Technical diploma or certificate not equal to degree,Female,479
+Wardha,Graduate and above other than technical degree,Female,5813
+Wardha,Technical degree or diploma equal to degree or post-graduate degree,Female,2734
+Nagpur,Illiterate,Male,102532
+Nagpur,Literate,Male,1121504
+Nagpur,Literate but below matric/secondary,Male,494509
+Nagpur,Matric/secondary but below graduate,Male,366747
+Nagpur,Technical diploma or certificate not equal to degree,Male,19171
+Nagpur,Graduate and above other than technical degree,Male,153189
+Nagpur,Technical degree or diploma equal to degree or post-graduate degree,Male,41850
+Nagpur,Illiterate,Female,102178
+Nagpur,Literate,Female,328466
+Nagpur,Literate but below matric/secondary,Female,172553
+Nagpur,Matric/secondary but below graduate,Female,72867
+Nagpur,Technical diploma or certificate not equal to degree,Female,2387
+Nagpur,Graduate and above other than technical degree,Female,42331
+Nagpur,Technical degree or diploma equal to degree or post-graduate degree,Female,18747
+Bhandara,Illiterate,Male,27006
+Bhandara,Literate,Male,235514
+Bhandara,Literate but below matric/secondary,Male,125300
+Bhandara,Matric/secondary but below graduate,Male,76108
+Bhandara,Technical diploma or certificate not equal to degree,Male,2239
+Bhandara,Graduate and above other than technical degree,Male,20357
+Bhandara,Technical degree or diploma equal to degree or post-graduate degree,Male,6258
+Bhandara,Illiterate,Female,41728
+Bhandara,Literate,Female,109263
+Bhandara,Literate but below matric/secondary,Female,68625
+Bhandara,Matric/secondary but below graduate,Female,28804
+Bhandara,Technical diploma or certificate not equal to degree,Female,340
+Bhandara,Graduate and above other than technical degree,Female,4699
+Bhandara,Technical degree or diploma equal to degree or post-graduate degree,Female,2123
+Gondiya,Illiterate,Male,24140
+Gondiya,Literate,Male,258032
+Gondiya,Literate but below matric/secondary,Male,133652
+Gondiya,Matric/secondary but below graduate,Male,76090
+Gondiya,Technical diploma or certificate not equal to degree,Male,1729
+Gondiya,Graduate and above other than technical degree,Male,16929
+Gondiya,Technical degree or diploma equal to degree or post-graduate degree,Male,5712
+Gondiya,Illiterate,Female,41147
+Gondiya,Literate,Female,111672
+Gondiya,Literate but below matric/secondary,Female,66401
+Gondiya,Matric/secondary but below graduate,Female,25738
+Gondiya,Technical diploma or certificate not equal to degree,Female,237
+Gondiya,Graduate and above other than technical degree,Female,3676
+Gondiya,Technical degree or diploma equal to degree or post-graduate degree,Female,1543
+Gadchiroli,Illiterate,Male,55874
+Gadchiroli,Literate,Male,184035
+Gadchiroli,Literate but below matric/secondary,Male,97429
+Gadchiroli,Matric/secondary but below graduate,Male,48855
+Gadchiroli,Technical diploma or certificate not equal to degree,Male,798
+Gadchiroli,Graduate and above other than technical degree,Male,11633
+Gadchiroli,Technical degree or diploma equal to degree or post-graduate degree,Male,3943
+Gadchiroli,Illiterate,Female,71303
+Gadchiroli,Literate,Female,81591
+Gadchiroli,Literate but below matric/secondary,Female,44365
+Gadchiroli,Matric/secondary but below graduate,Female,15956
+Gadchiroli,Technical diploma or certificate not equal to degree,Female,143
+Gadchiroli,Graduate and above other than technical degree,Female,2311
+Gadchiroli,Technical degree or diploma equal to degree or post-graduate degree,Female,1030
+Chandrapur,Illiterate,Male,82091
+Chandrapur,Literate,Male,454641
+Chandrapur,Literate but below matric/secondary,Male,241047
+Chandrapur,Matric/secondary but below graduate,Male,144601
+Chandrapur,Technical diploma or certificate not equal to degree,Male,5796
+Chandrapur,Graduate and above other than technical degree,Male,39524
+Chandrapur,Technical degree or diploma equal to degree or post-graduate degree,Male,11094
+Chandrapur,Illiterate,Female,102427
+Chandrapur,Literate,Female,164896
+Chandrapur,Literate but below matric/secondary,Female,106570
+Chandrapur,Matric/secondary but below graduate,Female,39041
+Chandrapur,Technical diploma or certificate not equal to degree,Female,430
+Chandrapur,Graduate and above other than technical degree,Female,7791
+Chandrapur,Technical degree or diploma equal to degree or post-graduate degree,Female,3291
+Yavatmal,Illiterate,Male,94497
+Yavatmal,Literate,Male,649894
+Yavatmal,Literate but below matric/secondary,Male,350246
+Yavatmal,Matric/secondary but below graduate,Male,166269
+Yavatmal,Technical diploma or certificate not equal to degree,Male,4128
+Yavatmal,Graduate and above other than technical degree,Male,37527
+Yavatmal,Technical degree or diploma equal to degree or post-graduate degree,Male,12831
+Yavatmal,Illiterate,Female,159142
+Yavatmal,Literate,Female,292715
+Yavatmal,Literate but below matric/secondary,Female,180781
+Yavatmal,Matric/secondary but below graduate,Female,45438
+Yavatmal,Technical diploma or certificate not equal to degree,Female,498
+Yavatmal,Graduate and above other than technical degree,Female,7246
+Yavatmal,Technical degree or diploma equal to degree or post-graduate degree,Female,3634
+Nanded,Illiterate,Male,163011
+Nanded,Literate,Male,687610
+Nanded,Literate but below matric/secondary,Male,352187
+Nanded,Matric/secondary but below graduate,Male,196593
+Nanded,Technical diploma or certificate not equal to degree,Male,5098
+Nanded,Graduate and above other than technical degree,Male,57135
+Nanded,Technical degree or diploma equal to degree or post-graduate degree,Male,20004
+Nanded,Illiterate,Female,222151
+Nanded,Literate,Female,244979
+Nanded,Literate but below matric/secondary,Female,163484
+Nanded,Matric/secondary but below graduate,Female,40743
+Nanded,Technical diploma or certificate not equal to degree,Female,590
+Nanded,Graduate and above other than technical degree,Female,7818
+Nanded,Technical degree or diploma equal to degree or post-graduate degree,Female,5240
+Hingoli,Illiterate,Male,48875
+Hingoli,Literate,Male,258838
+Hingoli,Literate but below matric/secondary,Male,142976
+Hingoli,Matric/secondary but below graduate,Male,59851
+Hingoli,Technical diploma or certificate not equal to degree,Male,1005
+Hingoli,Graduate and above other than technical degree,Male,13600
+Hingoli,Technical degree or diploma equal to degree or post-graduate degree,Male,4683
+Hingoli,Illiterate,Female,83839
+Hingoli,Literate,Female,121944
+Hingoli,Literate but below matric/secondary,Female,77670
+Hingoli,Matric/secondary but below graduate,Female,14161
+Hingoli,Technical diploma or certificate not equal to degree,Female,113
+Hingoli,Graduate and above other than technical degree,Female,1367
+Hingoli,Technical degree or diploma equal to degree or post-graduate degree,Female,1032
+Parbhani,Illiterate,Male,100095
+Parbhani,Literate,Male,373483
+Parbhani,Literate but below matric/secondary,Male,214747
+Parbhani,Matric/secondary but below graduate,Male,98514
+Parbhani,Technical diploma or certificate not equal to degree,Male,2045
+Parbhani,Graduate and above other than technical degree,Male,28306
+Parbhani,Technical degree or diploma equal to degree or post-graduate degree,Male,9299
+Parbhani,Illiterate,Female,142738
+Parbhani,Literate,Female,140501
+Parbhani,Literate but below matric/secondary,Female,102304
+Parbhani,Matric/secondary but below graduate,Female,20479
+Parbhani,Technical diploma or certificate not equal to degree,Female,252
+Parbhani,Graduate and above other than technical degree,Female,3758
+Parbhani,Technical degree or diploma equal to degree or post-graduate degree,Female,2451
+Jalna,Illiterate,Male,110520
+Jalna,Literate,Male,397526
+Jalna,Literate but below matric/secondary,Male,226202
+Jalna,Matric/secondary but below graduate,Male,104603
+Jalna,Technical diploma or certificate not equal to degree,Male,1913
+Jalna,Graduate and above other than technical degree,Male,27631
+Jalna,Technical degree or diploma equal to degree or post-graduate degree,Male,6628
+Jalna,Illiterate,Female,171602
+Jalna,Literate,Female,164327
+Jalna,Literate but below matric/secondary,Female,113201
+Jalna,Matric/secondary but below graduate,Female,25632
+Jalna,Technical diploma or certificate not equal to degree,Female,274
+Jalna,Graduate and above other than technical degree,Female,3837
+Jalna,Technical degree or diploma equal to degree or post-graduate degree,Female,1824
+Aurangabad,Illiterate,Male,143562
+Aurangabad,Literate,Male,814056
+Aurangabad,Literate but below matric/secondary,Male,362727
+Aurangabad,Matric/secondary but below graduate,Male,293052
+Aurangabad,Technical diploma or certificate not equal to degree,Male,13588
+Aurangabad,Graduate and above other than technical degree,Male,97539
+Aurangabad,Technical degree or diploma equal to degree or post-graduate degree,Male,25457
+Aurangabad,Illiterate,Female,217591
+Aurangabad,Literate,Female,270408
+Aurangabad,Literate but below matric/secondary,Female,164965
+Aurangabad,Matric/secondary but below graduate,Female,64627
+Aurangabad,Technical diploma or certificate not equal to degree,Female,1369
+Aurangabad,Graduate and above other than technical degree,Female,18399
+Aurangabad,Technical degree or diploma equal to degree or post-graduate degree,Female,9320
+Nashik,Illiterate,Male,231599
+Nashik,Literate,Male,1409576
+Nashik,Literate but below matric/secondary,Male,650008
+Nashik,Matric/secondary but below graduate,Male,432177
+Nashik,Technical diploma or certificate not equal to degree,Male,31527
+Nashik,Graduate and above other than technical degree,Male,137982
+Nashik,Technical degree or diploma equal to degree or post-graduate degree,Male,39186
+Nashik,Illiterate,Female,314883
+Nashik,Literate,Female,568044
+Nashik,Literate but below matric/secondary,Female,323363
+Nashik,Matric/secondary but below graduate,Female,114032
+Nashik,Technical diploma or certificate not equal to degree,Female,2934
+Nashik,Graduate and above other than technical degree,Female,30252
+Nashik,Technical degree or diploma equal to degree or post-graduate degree,Female,13313
+Thane,Illiterate,Male,368393
+Thane,Literate,Male,2691346
+Thane,Literate but below matric/secondary,Male,992649
+Thane,Matric/secondary but below graduate,Male,971043
+Thane,Technical diploma or certificate not equal to degree,Male,52833
+Thane,Graduate and above other than technical degree,Male,394778
+Thane,Technical degree or diploma equal to degree or post-graduate degree,Male,100111
+Thane,Illiterate,Female,249420
+Thane,Literate,Female,621230
+Thane,Literate but below matric/secondary,Female,213602
+Thane,Matric/secondary but below graduate,Female,148742
+Thane,Technical diploma or certificate not equal to degree,Female,8697
+Thane,Graduate and above other than technical degree,Female,156440
+Thane,Technical degree or diploma equal to degree or post-graduate degree,Female,44069
+Mumbai Suburban,Illiterate,Male,212369
+Mumbai Suburban,Literate,Male,2598435
+Mumbai Suburban,Literate but below matric/secondary,Male,931195
+Mumbai Suburban,Matric/secondary but below graduate,Male,964892
+Mumbai Suburban,Technical diploma or certificate not equal to degree,Male,43667
+Mumbai Suburban,Graduate and above other than technical degree,Male,472840
+Mumbai Suburban,Technical degree or diploma equal to degree or post-graduate degree,Male,106254
+Mumbai Suburban,Illiterate,Female,93550
+Mumbai Suburban,Literate,Female,611390
+Mumbai Suburban,Literate but below matric/secondary,Female,171260
+Mumbai Suburban,Matric/secondary but below graduate,Female,149943
+Mumbai Suburban,Technical diploma or certificate not equal to degree,Female,9061
+Mumbai Suburban,Graduate and above other than technical degree,Female,214542
+Mumbai Suburban,Technical degree or diploma equal to degree or post-graduate degree,Female,45600
+Mumbai,Illiterate,Male,90914
+Mumbai,Literate,Male,883254
+Mumbai,Literate but below matric/secondary,Male,337240
+Mumbai,Matric/secondary but below graduate,Male,322189
+Mumbai,Technical diploma or certificate not equal to degree,Male,10850
+Mumbai,Graduate and above other than technical degree,Male,151293
+Mumbai,Technical degree or diploma equal to degree or post-graduate degree,Male,26433
+Mumbai,Illiterate,Female,31460
+Mumbai,Literate,Female,202549
+Mumbai,Literate but below matric/secondary,Female,57265
+Mumbai,Matric/secondary but below graduate,Female,53383
+Mumbai,Technical diploma or certificate not equal to degree,Female,3163
+Mumbai,Graduate and above other than technical degree,Female,68617
+Mumbai,Technical degree or diploma equal to degree or post-graduate degree,Female,12282
+Raigarh,Illiterate,Male,72072
+Raigarh,Literate,Male,570548
+Raigarh,Literate but below matric/secondary,Male,259011
+Raigarh,Matric/secondary but below graduate,Male,177991
+Raigarh,Technical diploma or certificate not equal to degree,Male,12002
+Raigarh,Graduate and above other than technical degree,Male,66493
+Raigarh,Technical degree or diploma equal to degree or post-graduate degree,Male,22265
+Raigarh,Illiterate,Female,68689
+Raigarh,Literate,Female,148865
+Raigarh,Literate but below matric/secondary,Female,78893
+Raigarh,Matric/secondary but below graduate,Female,26799
+Raigarh,Technical diploma or certificate not equal to degree,Female,1590
+Raigarh,Graduate and above other than technical degree,Female,20869
+Raigarh,Technical degree or diploma equal to degree or post-graduate degree,Female,8467
+Pune,Illiterate,Male,260192
+Pune,Literate,Male,2400883
+Pune,Literate but below matric/secondary,Male,843967
+Pune,Matric/secondary but below graduate,Male,811973
+Pune,Technical diploma or certificate not equal to degree,Male,81924
+Pune,Graduate and above other than technical degree,Male,347116
+Pune,Technical degree or diploma equal to degree or post-graduate degree,Male,163176
+Pune,Illiterate,Female,295338
+Pune,Literate,Female,796911
+Pune,Literate but below matric/secondary,Female,357514
+Pune,Matric/secondary but below graduate,Female,164752
+Pune,Technical diploma or certificate not equal to degree,Female,9930
+Pune,Graduate and above other than technical degree,Female,131442
+Pune,Technical degree or diploma equal to degree or post-graduate degree,Female,59656
+Ahmadnagar,Illiterate,Male,185341
+Ahmadnagar,Literate,Male,1041092
+Ahmadnagar,Literate but below matric/secondary,Male,496193
+Ahmadnagar,Matric/secondary but below graduate,Male,333821
+Ahmadnagar,Technical diploma or certificate not equal to degree,Male,16368
+Ahmadnagar,Graduate and above other than technical degree,Male,99956
+Ahmadnagar,Technical degree or diploma equal to degree or post-graduate degree,Male,28201
+Ahmadnagar,Illiterate,Female,310205
+Ahmadnagar,Literate,Female,502121
+Ahmadnagar,Literate but below matric/secondary,Female,319283
+Ahmadnagar,Matric/secondary but below graduate,Female,109032
+Ahmadnagar,Technical diploma or certificate not equal to degree,Female,2363
+Ahmadnagar,Graduate and above other than technical degree,Female,19476
+Ahmadnagar,Technical degree or diploma equal to degree or post-graduate degree,Female,10212
+Bid,Illiterate,Male,124680
+Bid,Literate,Male,558565
+Bid,Literate but below matric/secondary,Male,256352
+Bid,Matric/secondary but below graduate,Male,167452
+Bid,Technical diploma or certificate not equal to degree,Male,4564
+Bid,Graduate and above other than technical degree,Male,56936
+Bid,Technical degree or diploma equal to degree or post-graduate degree,Male,16032
+Bid,Illiterate,Female,205364
+Bid,Literate,Female,265390
+Bid,Literate but below matric/secondary,Female,148536
+Bid,Matric/secondary but below graduate,Female,49061
+Bid,Technical diploma or certificate not equal to degree,Female,655
+Bid,Graduate and above other than technical degree,Female,7274
+Bid,Technical degree or diploma equal to degree or post-graduate degree,Female,4554
+Latur,Illiterate,Male,117842
+Latur,Literate,Male,516129
+Latur,Literate but below matric/secondary,Male,226181
+Latur,Matric/secondary but below graduate,Male,179083
+Latur,Technical diploma or certificate not equal to degree,Male,6077
+Latur,Graduate and above other than technical degree,Male,45141
+Latur,Technical degree or diploma equal to degree or post-graduate degree,Male,18926
+Latur,Illiterate,Female,139574
+Latur,Literate,Female,191157
+Latur,Literate but below matric/secondary,Female,115996
+Latur,Matric/secondary but below graduate,Female,42100
+Latur,Technical diploma or certificate not equal to degree,Female,776
+Latur,Graduate and above other than technical degree,Female,6528
+Latur,Technical degree or diploma equal to degree or post-graduate degree,Female,5261
+Osmanabad,Illiterate,Male,76593
+Osmanabad,Literate,Male,365625
+Osmanabad,Literate but below matric/secondary,Male,172066
+Osmanabad,Matric/secondary but below graduate,Male,121152
+Osmanabad,Technical diploma or certificate not equal to degree,Male,3256
+Osmanabad,Graduate and above other than technical degree,Male,33278
+Osmanabad,Technical degree or diploma equal to degree or post-graduate degree,Male,10450
+Osmanabad,Illiterate,Female,104055
+Osmanabad,Literate,Female,156163
+Osmanabad,Literate but below matric/secondary,Female,93830
+Osmanabad,Matric/secondary but below graduate,Female,32451
+Osmanabad,Technical diploma or certificate not equal to degree,Female,367
+Osmanabad,Graduate and above other than technical degree,Female,4333
+Osmanabad,Technical degree or diploma equal to degree or post-graduate degree,Female,2495
+Solapur,Illiterate,Male,208882
+Solapur,Literate,Male,939933
+Solapur,Literate but below matric/secondary,Male,506061
+Solapur,Matric/secondary but below graduate,Male,274095
+Solapur,Technical diploma or certificate not equal to degree,Male,11918
+Solapur,Graduate and above other than technical degree,Male,88042
+Solapur,Technical degree or diploma equal to degree or post-graduate degree,Male,28199
+Solapur,Illiterate,Female,272100
+Solapur,Literate,Female,341446
+Solapur,Literate but below matric/secondary,Female,237590
+Solapur,Matric/secondary but below graduate,Female,59606
+Solapur,Technical diploma or certificate not equal to degree,Female,1425
+Solapur,Graduate and above other than technical degree,Female,15322
+Solapur,Technical degree or diploma equal to degree or post-graduate degree,Female,8991
+Satara,Illiterate,Male,89193
+Satara,Literate,Male,691671
+Satara,Literate but below matric/secondary,Male,309896
+Satara,Matric/secondary but below graduate,Male,242176
+Satara,Technical diploma or certificate not equal to degree,Male,10630
+Satara,Graduate and above other than technical degree,Male,75019
+Satara,Technical degree or diploma equal to degree or post-graduate degree,Male,18803
+Satara,Illiterate,Female,125197
+Satara,Literate,Female,278094
+Satara,Literate but below matric/secondary,Female,172960
+Satara,Matric/secondary but below graduate,Female,58189
+Satara,Technical diploma or certificate not equal to degree,Female,1558
+Satara,Graduate and above other than technical degree,Female,17897
+Satara,Technical degree or diploma equal to degree or post-graduate degree,Female,7264
+Ratnagiri,Illiterate,Male,32182
+Ratnagiri,Literate,Male,311550
+Ratnagiri,Literate but below matric/secondary,Male,186503
+Ratnagiri,Matric/secondary but below graduate,Male,86448
+Ratnagiri,Technical diploma or certificate not equal to degree,Male,4754
+Ratnagiri,Graduate and above other than technical degree,Male,20420
+Ratnagiri,Technical degree or diploma equal to degree or post-graduate degree,Male,8031
+Ratnagiri,Illiterate,Female,63967
+Ratnagiri,Literate,Female,146724
+Ratnagiri,Literate but below matric/secondary,Female,112542
+Ratnagiri,Matric/secondary but below graduate,Female,19120
+Ratnagiri,Technical diploma or certificate not equal to degree,Female,766
+Ratnagiri,Graduate and above other than technical degree,Female,7063
+Ratnagiri,Technical degree or diploma equal to degree or post-graduate degree,Female,3780
+Sindhudurg,Illiterate,Male,13112
+Sindhudurg,Literate,Male,151955
+Sindhudurg,Literate but below matric/secondary,Male,75432
+Sindhudurg,Matric/secondary but below graduate,Male,50566
+Sindhudurg,Technical diploma or certificate not equal to degree,Male,1576
+Sindhudurg,Graduate and above other than technical degree,Male,12756
+Sindhudurg,Technical degree or diploma equal to degree or post-graduate degree,Male,3185
+Sindhudurg,Illiterate,Female,12030
+Sindhudurg,Literate,Female,49604
+Sindhudurg,Literate but below matric/secondary,Female,29498
+Sindhudurg,Matric/secondary but below graduate,Female,10584
+Sindhudurg,Technical diploma or certificate not equal to degree,Female,421
+Sindhudurg,Graduate and above other than technical degree,Female,3979
+Sindhudurg,Technical degree or diploma equal to degree or post-graduate degree,Female,1827
+Kolhapur,Illiterate,Male,132202
+Kolhapur,Literate,Male,917079
+Kolhapur,Literate but below matric/secondary,Male,368796
+Kolhapur,Matric/secondary but below graduate,Male,348905
+Kolhapur,Technical diploma or certificate not equal to degree,Male,18116
+Kolhapur,Graduate and above other than technical degree,Male,113369
+Kolhapur,Technical degree or diploma equal to degree or post-graduate degree,Male,25921
+Kolhapur,Illiterate,Female,164866
+Kolhapur,Literate,Female,293846
+Kolhapur,Literate but below matric/secondary,Female,168319
+Kolhapur,Matric/secondary but below graduate,Female,73736
+Kolhapur,Technical diploma or certificate not equal to degree,Female,2134
+Kolhapur,Graduate and above other than technical degree,Female,22078
+Kolhapur,Technical degree or diploma equal to degree or post-graduate degree,Female,8677
+Sangli,Illiterate,Male,99531
+Sangli,Literate,Male,649466
+Sangli,Literate but below matric/secondary,Male,295488
+Sangli,Matric/secondary but below graduate,Male,226861
+Sangli,Technical diploma or certificate not equal to degree,Male,11166
+Sangli,Graduate and above other than technical degree,Male,72304
+Sangli,Technical degree or diploma equal to degree or post-graduate degree,Male,18450
+Sangli,Illiterate,Female,113502
+Sangli,Literate,Female,212087
+Sangli,Literate but below matric/secondary,Female,128966
+Sangli,Matric/secondary but below graduate,Female,46525
+Sangli,Technical diploma or certificate not equal to degree,Female,1449
+Sangli,Graduate and above other than technical degree,Female,15193
+Sangli,Technical degree or diploma equal to degree or post-graduate degree,Female,6891
