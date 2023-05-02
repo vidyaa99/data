@@ -276,10 +276,10 @@ Year,City,State,School,Fatalities,Presidency
 2003,Dallas,Texas,HS,0,Republican
 2003,Cold Spring,Minnesota,HS,2,Republican
 2003,Cold Spring,Minnesota,HS,2,Republican
-2003,Washington,District Of Columbia,HS,1,Republican
+2003,Washington,District of Columbia,HS,1,Republican
 2003,Sugar Land,Texas,HS,1,Republican
 2004,Henderson,Nevada,ES,1,Republican
-2004,District of Columbia,District Of Columbia,HS,1,Republican
+2004,District of Columbia,District of Columbia,HS,1,Republican
 2004,Washington,D.C.,HS,1,Republican
 2004,East Greenbush,New York,HS,0,Republican
 2004,East Greenbush,New York,HS,0,Republican
@@ -490,7 +490,7 @@ Year,City,State,School,Fatalities,Presidency
 2012,Chardon,Ohio,HS,3,Democrat
 2012,Chardon,Ohio,HS,3,Democrat
 2012,Jacksonville,Florida,HS,1,Democrat
-2012,Jacksonville,Florida,-,2,Democrat
+2012,Jacksonville,Florida,HS,2,Democrat
 2012,Starkville,Mississippi,C,1,Democrat
 2012,Oakland,California,C,7,Democrat
 2012,Oakland,California,C,7,Democrat
